@@ -1,0 +1,11 @@
+.git
+.github
+.venv
+__pycache__
+.pytest_cache
+.ruff_cache
+*.pyc
+*.zip
+sessions
+*.json
+!pyproject.toml
