@@ -1,6 +1,4 @@
-# IAM — Instagram Account Manager
-
-**Version 1.0.0 · Modernized community rewrite of new92/iam**
+<img width="1200" height="670" alt="logo" src="https://github.com/user-attachments/assets/c3288abe-e243-4736-9d65-bcda33426750" />
 
 A command-line tool for **human-directed management of your own Instagram account**.
 
